@@ -1,0 +1,162 @@
+    1  ls
+    2  cd ..
+    3  pwd
+    4  vi
+    5  ls
+    6  cd /home
+    7  ls
+    8  cd mbuddhi
+    9  ls
+   10  cd unix_tutorial/
+   11  ls
+   12  sh test.sh
+   13  vi test.sh
+   14  dos2unix test.sh
+   15  cdcd bin
+   16  cd ..
+   17  cd ..
+   18  cd ..
+   19  ls
+   20  cd bin
+   21  ls
+   22  apt-cyg git
+   23  apt-cyg listfiles
+   24  exit
+   25  ls
+   26  pwd
+   27  vi
+   28  bash
+   29  exit
+   30  pwd
+   31  home
+   32  ls
+   33  pwd
+   34  ls -lhrt
+   35  exit
+   36  ls
+   37  pwd
+   38  bash
+   39  git --version
+   40  vagrant --version
+   41  pwd
+   42  ls
+   43  pwd
+   44  cd
+   45  pwd
+   46  cd/
+   47  cd /
+   48  pwd
+   49  ls
+   50  git init
+   51  ls -R
+   52  ls
+   53  cd bin
+   54  ls
+   55  pwd
+   56  cd ..
+   57  ls
+   58  ls -R
+   59  ls -a
+   60  git status
+   61  clear
+   62  pwd
+   63  exit
+   64  git init
+   65  cd /
+   66  git init
+   67  exit
+   68  pwd
+   69  git --config list
+   70  git config --list
+   71  bash
+   72  ls
+   73  pwd
+   74  git status
+   75  ls
+   76  ls -a
+   77  git config --list
+   78  ls
+   79  cat file1.txt
+   80  cat > file1.txt
+   81  cat file1.txt
+   82  cat > sample1
+   83  cat sample
+   84  cat sample1
+   85  git init
+   86  git add sample1
+   87  cat sample1
+   88  cat file.txt sample1 > mergedfile.txt
+   89  cat file1.txt sample1 > mergedfile.txt
+   90  cat mergedfile.txt 
+   91  mkdir test
+   92  ls
+   93  mv file1.txt test
+   94  ls
+   95  ls
+   96  pwd
+   97  mkdir dir1 dir2
+   98  ls
+   99  ls
+  100  man
+  101  man man
+  102  man -mkdir
+  103  exit
+  104  git status
+  105  git init
+  106  git status
+  107  bash
+  108  exit
+  109  ls
+  110  pwd
+  111  git init
+  112  git status
+  113  git remote add origin https://github.com/Devopsguru30/Gitlabs.git
+  114  git status
+  115  pwd
+  116  git log
+  117  git remote -v
+  118  git add a1.txt a2.txt a3.txt a4.txt a5.txt a6.txt a7.txt a8.txt a9.txt a10.txt
+  119  touch a1.txt a2.txt a3.txt a4.txt a5.txt a6.txt a7.txt a8.txt a9.txt a10.txt
+  120  git add a1.txt a2.txt a3.txt a4.txt a5.txt a6.txt a7.txt a8.txt a9.txt a10.txt
+  121  git add -add
+  122  git add -a11
+  123  git status
+  124  git commit -m "Adding 10 txt files from staging are to local repo"
+  125  git push origin master
+  126  git log
+  127  git commit -m "Deleted a10.txt file from local"
+  128  git push origin master
+  129  git status
+  130  git commit -m " Deleted a10"
+  131  ls
+  132  git delete a9.txt
+  133  git --help
+  134  clear
+  135  git rm a9.txt .
+  136  git rm a9.txt 
+  137  git status
+  138  git checkout a10.txt
+  139  git status
+  140  git clean -df
+  141  git status
+  142  git commit -m "Deleted a9.txt"
+  143  git status
+  144  git push origin master
+  145  gedit a1.txt
+  146  touch a1.txt
+  147  touch a1.txt
+  148  exit
+  149  ls
+  150  git push origin master
+  151  history
+  152  git add a9.txt
+  153  touch a9.txt
+  154  ls
+  155  git add a9.txt
+  156  git commit -, "Adding 19.txt
+
+  157  git commit -, "Adding a9.txt"
+  158  git commit -m "Adding a9.txt"
+  159  git push origin master
+  160  git status
+  161  history > a20.txt
